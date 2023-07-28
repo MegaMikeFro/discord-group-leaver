@@ -1,1 +1,1 @@
-# discord-group-leaver
+# Discord group leaver
